@@ -10,6 +10,9 @@
   
 -  Each one should be around 3 paragraphs - approximately 12-14 sentences, with an introduction and closing. If you can understand the  basic format of a Cover Letter you will see that they are simple to write out for any job you are applying to
 
+
+- *"“Second, third, and hundredth chances balancing on breaking (git?) branches”*
+
 ### Chat GPT / AI for Cover Letters
 
 - You are not the first person to think "I'll just have AI write this for me". You won't be the last one either.
