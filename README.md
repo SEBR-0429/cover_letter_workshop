@@ -57,7 +57,7 @@
     - Introduce yourself
     - *"I'm the one who makes you laugh when you know you're 'bout to cry"*
  
-- **Paragraph 1**
+- **Paragraph 2**
     - Why you want to join the company
     - *"And you've got a smile that can light up this whole town"*
  
