@@ -1,5 +1,9 @@
 # Cover Letter  Workshop
 
+Writing Cover Letters can be challenging, but shouldn't be too scary. You may have to take a few chances, but you won't need to be *fearless*
+
+<img src="https://i.ebayimg.com/images/g/K60AAOSwkH5l~X0a/s-l1200.webp"/>
+
 ##  Introduction
 
 - Composing a cover letter is an integral part of your next journey - beginning the job application process and entering the professional work force.
@@ -10,8 +14,14 @@
   
 -  Each one should be around 3 paragraphs - approximately 12-14 sentences, with an introduction and closing. If you can understand the  basic format of a Cover Letter you will see that they are simple to write out for any job you are applying to
 
-
 - *"“Second, third, and hundredth chances balancing on breaking (git?) branches”*
+
+- Hopefully after a few drafts, you'll be able to write Cover Letters easily, and won't have to stay up until
+
+  <img src="https://i.iheart.com/v3/re/new_assets/63502b9eaee0f4b0e56f9a54?ops=contain(1480,0)"/>
+
+  writing them
+
 
 ### Chat GPT / AI for Cover Letters
 
@@ -26,31 +36,33 @@
 
 - As we have said, you may have multiple drafts of your letters saved for you to submit for different jobs. You may need to change up a few of the details, but the format is fairly standard.
 
-- Here is the basic structure of a Cover Letter, which we will break down line by line.
+- Here is the basic structure of a Cover Letter, which we will break down line by line. Like a resume and a portfolio, this is *not* something you'll make once and never update. In fact, its something you may want to change up frequently
 
 - We can show you this make up, *you'll* need to actually fill in the details!
+
+- *"But nothing seems to work the first few times. Am I right?*
 
 ## Overview 
 
 ### Paragraphs 
 
 - **Introduction**
-    - "Its me, hi"
+    - *"Its me, hi"*
  
 - **Paragraph 1**
     - Introduce yourself
-    - "I'm the one who makes you laugh when you know you're 'bout to cry"
+    - *"I'm the one who makes you laugh when you know you're 'bout to cry"*
  
 - **Paragraph 1**
     - Why you want to join the company
-    - "And you've got a smile that can light up this whole town"
+    - *"And you've got a smile that can light up this whole town"*
  
 - **Paragraph 3**
   - Why you'd be a good fit for the job
-  - "Dreaming about the day when you wake up and find, that what you're looking for has been here the whole time"
+  - *"Dreaming about the day when you wake up and find, that what you're looking for has been here the whole time"*
 
 - **Closing** 
-  - "Been here all along, so why can't you see? You belong with me"
+  - *"Been here all along, so why can't you see? You belong with me"*
 
   
 ## Cover Letters, line by line
