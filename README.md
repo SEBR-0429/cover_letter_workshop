@@ -1,19 +1,18 @@
 # Cover Letter  Workshop - Taylor's Version
 
-Writing Cover Letters can be challenging, but shouldn't be too scary. You may have to take a few chances, but you won't need to be *fearless* to write them
+- Composing a cover letter is an integral part of your next journey - beginning the job application process and entering the professional work force.
+-  Writing Cover Letters can be challenging, but shouldn't be too scary. You may have to take a few chances, but you won't need to be *fearless* to write them
 
 <img src="https://i.ebayimg.com/images/g/K60AAOSwkH5l~X0a/s-l1200.webp"/>
 
 ##  Introduction
 
-- Composing a cover letter is an integral part of your next journey - beginning the job application process and entering the professional work force.
 
 - It is likely that you will have multiple drafts and versions of cover letters to use for the different types of positions you apply for (Dev vs Solutions, Programmer vs Manager, Front End vs Back End...)
 
 - A Cover Letter is a lot like a pop song. They all follow a pretty similar structure, they all have the same basic themes, just changing the words. They shouldn't be too long, and shouldn't veer too far outside of their basic format.
   
 -  Each one should be around 3 paragraphs - approximately 12-14 sentences, with an introduction and closing. If you can understand the  basic format of a Cover Letter you will see that they are simple to write out for any job you are applying to
-
 
 
 - Hopefully after a few drafts, you'll be able to write Cover Letters easily, and won't have to stay up past *Midnights* putting them together
