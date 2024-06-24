@@ -66,7 +66,7 @@
   - *"Dreaming about the day when you wake up and find, that what you're looking for has been here the whole time"*
 
 - **Closing** 
-  - *"Been here all along, so why can't you see? You belong with me"*
+  - *"Can't you see? You belong with me"*
  
 
 So let's get to it, and *Speak Now* 
