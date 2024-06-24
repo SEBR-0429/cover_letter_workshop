@@ -14,20 +14,24 @@ Writing Cover Letters can be challenging, but shouldn't be too scary. You may ha
   
 -  Each one should be around 3 paragraphs - approximately 12-14 sentences, with an introduction and closing. If you can understand the  basic format of a Cover Letter you will see that they are simple to write out for any job you are applying to
 
-- *"“Second, third, and hundredth chances balancing on breaking (git?) branches”*
 
-- Hopefully after a few drafts, you'll be able to write Cover Letters easily, and won't have to stay up until
+
+- Hopefully after a few drafts, you'll be able to write Cover Letters easily, and won't have to stay up until Midnight
 
   <img src="https://i.iheart.com/v3/re/new_assets/63502b9eaee0f4b0e56f9a54?ops=contain(1480,0)"/>
 
-  writing them
 
+- *"“Second, third, and hundredth chances balancing on breaking (git?) branches”*
 
 ### Chat GPT / AI for Cover Letters
 
 - You are not the first person to think "I'll just have AI write this for me". You won't be the last one either.
 - Don't do it. People whose jobs it is to read applications can spot an AI written Cover Letter 10 words in. AI simply can not write to the level of ethos, pathos, and gravitas that you will want to have in a strong, professional cover letter.
 - If you are not willing to put the effort in to write the 100 or so words that make up a cover letter, interviewers and readers can assume that you will not put the effort in to actually do the work the job entails. Which means you may be starting off the application process on Strike 1. You may think this is a way to save time, it may actually make you look like a weaker candidate.
+
+Are you willing to risk your entire professional Reputation on somethign so simple?
+
+<img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/18/USAT/73369582007-006-reputation-2017.jpg?width=606&height=610&fit=crop&format=pjpg&auto=webp"/>
 
 - Sorry... *"so casually cruel in the name of being honest"*
 
@@ -40,7 +44,9 @@ Writing Cover Letters can be challenging, but shouldn't be too scary. You may ha
 
 - We can show you this make up, *you'll* need to actually fill in the details!
 
-- *"But nothing seems to work the first few times. Am I right?*
+- *You* get to write your own story in this, and define the narrative you want to create. *You* get to write your own Folklore
+
+  <img src="https://i.pinimg.com/736x/77/d1/58/77d158bff69ffb05c3ab5883cc1228d4.jpg"/>
 
 ## Overview 
 
@@ -63,9 +69,18 @@ Writing Cover Letters can be challenging, but shouldn't be too scary. You may ha
 
 - **Closing** 
   - *"Been here all along, so why can't you see? You belong with me"*
+ 
+
+So let's get to it, and Speak Now 
+
+<img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/0*zteB11UZ-d9DeOj5.jpg"/>
 
   
 ## Cover Letters, line by line
+
+This should be a collection of your own Greatest Hits
+
+<img src="https://i1.sndcdn.com/artworks-000165545106-9co5ip-t500x500.jpg"/>
 
 **Introduction Greeting**
  - "Dear Sir or Madam", "To whom it may concern", "Hello there",
