@@ -1,6 +1,6 @@
-# Cover Letter  Workshop
+# Cover Letter  Workshop - Taylor's Version
 
-Writing Cover Letters can be challenging, but shouldn't be too scary. You may have to take a few chances, but you won't need to be *fearless*
+Writing Cover Letters can be challenging, but shouldn't be too scary. You may have to take a few chances, but you won't need to be *fearless* to write them
 
 <img src="https://i.ebayimg.com/images/g/K60AAOSwkH5l~X0a/s-l1200.webp"/>
 
@@ -16,12 +16,11 @@ Writing Cover Letters can be challenging, but shouldn't be too scary. You may ha
 
 
 
-- Hopefully after a few drafts, you'll be able to write Cover Letters easily, and won't have to stay up until Midnight
+- Hopefully after a few drafts, you'll be able to write Cover Letters easily, and won't have to stay up past *Midnights* putting them together
 
   <img src="https://i.iheart.com/v3/re/new_assets/63502b9eaee0f4b0e56f9a54?ops=contain(1480,0)"/>
 
 
-- *"“Second, third, and hundredth chances balancing on breaking (git?) branches”*
 
 ### Chat GPT / AI for Cover Letters
 
@@ -44,7 +43,7 @@ Are you willing to risk your entire professional Reputation on somethign so simp
 
 - We can show you this make up, *you'll* need to actually fill in the details!
 
-- *You* get to write your own story in this, and define the narrative you want to create. *You* get to write your own Folklore
+- *You* get to write your own story in this, and define the narrative you want to create. *You* get to write your own *Folklore*
 
   <img src="https://i.pinimg.com/736x/77/d1/58/77d158bff69ffb05c3ab5883cc1228d4.jpg"/>
 
@@ -71,14 +70,14 @@ Are you willing to risk your entire professional Reputation on somethign so simp
   - *"Been here all along, so why can't you see? You belong with me"*
  
 
-So let's get to it, and Speak Now 
+So let's get to it, and *Speak Now* 
 
 <img src="https://miro.medium.com/v2/resize:fit:1200/format:webp/0*zteB11UZ-d9DeOj5.jpg"/>
 
   
 ## Cover Letters, line by line
 
-This should be a collection of your own Greatest Hits
+This should be a collection of your own *Greatest Hits*
 
 <img src="https://i1.sndcdn.com/artworks-000165545106-9co5ip-t500x500.jpg"/>
 
@@ -109,5 +108,12 @@ This should be a collection of your own Greatest Hits
  - "Thank you for reading my application, I can send over any references or letters of recommendation that you would like. I can be reached at *(123)456-7890* or *Your.Email@your.email* for any further questions." is the basic gist of this closing sentence. You can change the wording up as you would like
 
    
+## Recap
 
+- Like drafting Wireframe designs, constructing ERD's or Whiteboarding your code, writing Cover Letters is a skill in itself. It is something you will want to practice and build as you continue in your professional journey.
+- You will most likely have a few drafts and versions saved on your computer to use for different roles, which you can use and send when the need arises (Like bonus tracks on Tortured Poets...)
+
+  
+
+- *"And you come away with a great little story of a mess of a dreamer with the nerve to adore you”
 
