@@ -76,11 +76,13 @@ So let's get to it, and *Speak Now*
   
 ## Cover Letters, line by line
 
-This should be a collection of your own *Greatest Hits*
 
-<img src="https://i1.sndcdn.com/artworks-000165545106-9co5ip-t500x500.jpg"/>
 
 This is a chance to really show off and talk about what makes you special!
+
+A cover letter should be a collection of your own *Greatest Hits*
+
+<img src="https://i1.sndcdn.com/artworks-000165545106-9co5ip-t500x500.jpg"/>
 
 **Introduction Greeting**
  - "Dear Sir or Madam", "To whom it may concern", "Hello there",
