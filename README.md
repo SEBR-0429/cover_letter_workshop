@@ -1,6 +1,7 @@
 # Cover Letter  Workshop - Taylor's Version
 
 - Composing a cover letter is an integral part of your next journey - beginning the job application process and entering the professional work force.
+- It is likely that you will have multiple drafts and versions of cover letters to use for the different types of positions you apply for (Dev vs Solutions, Programmer vs Manager, Front End vs Back End...)
 -  Writing Cover Letters can be challenging, but shouldn't be too scary. You may have to take a few chances, but you won't need to be *Fearless* to write them
 
 <img src="https://i.ebayimg.com/images/g/K60AAOSwkH5l~X0a/s-l1200.webp"/>
@@ -8,7 +9,6 @@
 ##  Introduction
 
 
-- It is likely that you will have multiple drafts and versions of cover letters to use for the different types of positions you apply for (Dev vs Solutions, Programmer vs Manager, Front End vs Back End...)
 
 - A Cover Letter is a lot like a pop song. They all follow a pretty similar structure, they all have the same basic themes, just changing the words. They shouldn't be too long, and shouldn't veer too far outside of their basic format.
   
