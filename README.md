@@ -16,6 +16,8 @@
 - Don't do it. People whose jobs it is to read applications can spot an AI written Cover Letter 10 words in. AI simply can not write to the level of ethos, pathos, and gravitas that you will want to have in a strong, professional cover letter.
 - If you are not willing to put the effort in to write the 100 or so words that make up a cover letter, interviewers and readers can assume that you will not put the effort in to actually do the work the job entails. Which means you may be starting off the application process on Strike 1. You may think this is a way to save time, it may actually make you look like a weaker candidate.
 
+- Sorry... "so casually cruel in the name of being honest"
+
 
 ### Cover Letter Make Up
 
