@@ -122,6 +122,6 @@ A cover letter should be a collection of your own *Greatest Hits*
 
   
 
-- *"And you come away with a great little story of a mess of a dreamer with the nerve to adore you”
+- *"And you come away with a great little story of a mess of a dreamer with the nerve to adore you”*
 
 <img src="https://www.billboard.com/wp-content/uploads/2024/06/taylor-swift-liverpool-night-1-2024-billboard-1548.jpg?w=942&h=623&crop=1"/>
