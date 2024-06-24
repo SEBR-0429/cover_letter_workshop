@@ -110,6 +110,10 @@ A cover letter should be a collection of your own *Greatest Hits*
 **Paragraph 4 - Closing**
  - "Thank you for reading my application, I can send over any references or letters of recommendation that you would like. I can be reached at *(123)456-7890* or *Your.Email@your.email* for any further questions." is the basic gist of this closing sentence. You can change the wording up as you would like
 
+
+**Sincerely**
+
+- You've *"got a blank space, baby.... write your name"*
    
 ## Recap
 
