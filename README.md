@@ -1,7 +1,7 @@
 # Cover Letter  Workshop - Taylor's Version
 
 - Composing a cover letter is an integral part of your next journey - beginning the job application process and entering the professional work force.
--  Writing Cover Letters can be challenging, but shouldn't be too scary. You may have to take a few chances, but you won't need to be *fearless* to write them
+-  Writing Cover Letters can be challenging, but shouldn't be too scary. You may have to take a few chances, but you won't need to be *Fearless* to write them
 
 <img src="https://i.ebayimg.com/images/g/K60AAOSwkH5l~X0a/s-l1200.webp"/>
 
@@ -27,7 +27,7 @@
 - Don't do it. People whose jobs it is to read applications can spot an AI written Cover Letter 10 words in. AI simply can not write to the level of ethos, pathos, and gravitas that you will want to have in a strong, professional cover letter.
 - If you are not willing to put the effort in to write the 100 or so words that make up a cover letter, interviewers and readers can assume that you will not put the effort in to actually do the work the job entails. Which means you may be starting off the application process on Strike 1. You may think this is a way to save time, it may actually make you look like a weaker candidate.
 
-- Are you willing to risk your entire professional Reputation on something so simple?
+- Are you willing to risk your entire professional *Reputation* on something so simple?
 
 <img src="https://www.usatoday.com/gcdn/authoring/authoring-images/2024/04/18/USAT/73369582007-006-reputation-2017.jpg?width=606&height=610&fit=crop&format=pjpg&auto=webp"/>
 
@@ -118,3 +118,4 @@ This is a chance to really show off and talk about what makes you special!
 
 - *"And you come away with a great little story of a mess of a dreamer with the nerve to adore you”
 
+<img src="https://www.billboard.com/wp-content/uploads/2024/06/taylor-swift-liverpool-night-1-2024-billboard-1548.jpg?w=942&h=623&crop=1"/>
