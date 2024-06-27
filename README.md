@@ -17,7 +17,7 @@
 
 - Hopefully after a few drafts, you'll be able to write Cover Letters easily, and won't have to stay up past *Midnights* putting them together
 
-  <img src="https://i.iheart.com/v3/re/new_assets/63502b9eaee0f4b0e56f9a54?ops=contain(1480,0)"/>
+  <img src="https://www.usatoday.com/gcdn/presto/2022/08/29/USAT/89ccfbd6-1bcf-4d95-a526-a1dc564cbded-midnights_taylor_swift_cover_art.jpg?crop=3322,3322,x637,y637"/>
 
 
 
