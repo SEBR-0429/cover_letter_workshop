@@ -55,6 +55,7 @@
  
 - **Paragraph 1**
     - Introduce yourself
+    - I would make a make a great fit for the position of _________ because
     - *"I'm the one who makes you laugh when you know you're 'bout to cry"*
  
 - **Paragraph 2**
@@ -92,6 +93,7 @@ A cover letter should be a collection of your own *Greatest Hits*
 **Paragraph 1 - About You**
 
  - A brief of history about you and what lead you in your career path to this job
+ - Why you would be an an ideal candidate for the position of _________ at _________ company
  - A bit about your education and work experience (this can be one long sentence, or one sentence for each)
  - Something interesting about yourself that can set you apart from others - volunteer experience, or a personal connection to the role
     
