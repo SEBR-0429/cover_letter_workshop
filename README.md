@@ -121,10 +121,17 @@ A cover letter should be a collection of your own *Greatest Hits*
 We know that the most difficult part of writing is putting down that first line. To overcome this obstacle, let's start with the very end, so that we have something on our page, then we can work from the bottom up, or the top, and add in some more content in:
 
 ```
-  Thank you for allowing me
+  Thank you for allowing me the opportunity to apply for this position. If you have any further questions or would like any additional resources I can be reached at ....
+
+
+  Sincerely,
+
+  Your Name
 
 ```
-   
+
+Now that we have official started the letter (the hardest part!) we can add in the rest our information, line by line
+    
 ## Recap
 
 - Like drafting Wireframe designs, constructing ERD's or Whiteboarding your code, writing Cover Letters is a skill in itself. It is something you will want to practice and build as you continue in your professional journey.
