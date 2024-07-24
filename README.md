@@ -114,6 +114,16 @@ A cover letter should be a collection of your own *Greatest Hits*
 **Sincerely**
 
 - You've *"got a blank space, baby.... write your name"*
+
+
+## We Do
+
+We know that the most difficult part of writing is putting down that first line. To overcome this obstacle, let's start with the very end, so that we have something on our page, then we can work from the bottom up, or the top, and add in some more content in:
+
+```
+  Thank you for allowing me
+
+```
    
 ## Recap
 
