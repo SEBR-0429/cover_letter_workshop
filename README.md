@@ -131,12 +131,21 @@ We know that the most difficult part of writing is putting down that first line.
 ```
 
 Now that we have official started the letter (the hardest part!) we can add in the rest our information, line by line
+
+
+## You Do
+
+ - Find a Job Posting on LinkedIn and write a cover letter for it!
     
 ## Recap
 
 - Like drafting Wireframe designs, constructing ERD's or Whiteboarding your code, writing Cover Letters is a skill in itself. It is something you will want to practice and build as you continue in your professional journey.
 - You will most likely have a few drafts and versions saved on your computer to use for different roles, which you can use and send when the need arises (Like bonus tracks on Tortured Poets...)
 
+
+Now we can sit back and listen to some music to relax. Maybe some Carly Rae Jepsen, who your instructor enjoys a lot more than TSwift
+
+<img src="https://upload.wikimedia.org/wikipedia/en/a/ad/Carly_Rae_Jepsen_-_Call_Me_Maybe.png"/>
   
 
 - *"And you come away with a great little story of a mess of a dreamer with the nerve to adore you”*
