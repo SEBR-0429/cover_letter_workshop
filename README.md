@@ -143,11 +143,14 @@ Now that we have official started the letter (the hardest part!) we can add in t
 - You will most likely have a few drafts and versions saved on your computer to use for different roles, which you can use and send when the need arises (Like bonus tracks on Tortured Poets...)
 
 
-Now we can sit back and listen to some music to relax. Maybe some Carly Rae Jepsen, who your instructor enjoys a lot more than TSwift
-
-<img src="https://upload.wikimedia.org/wikipedia/en/a/ad/Carly_Rae_Jepsen_-_Call_Me_Maybe.png"/>
-  
-
 - *"And you come away with a great little story of a mess of a dreamer with the nerve to adore you”*
 
 <img src="https://www.billboard.com/wp-content/uploads/2024/06/taylor-swift-liverpool-night-1-2024-billboard-1548.jpg?w=942&h=623&crop=1"/>
+
+
+
+
+### Now we can sit back and listen to some music to relax. Maybe some Carly Rae Jepsen, who your instructor enjoys a lot more than TSwift
+
+<img src="https://upload.wikimedia.org/wikipedia/en/a/ad/Carly_Rae_Jepsen_-_Call_Me_Maybe.png"/>
+  
